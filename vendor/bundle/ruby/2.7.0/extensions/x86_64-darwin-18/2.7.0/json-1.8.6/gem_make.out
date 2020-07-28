@@ -1,0 +1,13 @@
+current directory: /Users/DogPa/Development/code/translating-orm-to-ar-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+/Users/DogPa/.rvm/rubies/ruby-2.7.1/bin/ruby -I /Users/DogPa/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20200727-97272-ghv126.rb extconf.rb
+creating Makefile
+
+current directory: /Users/DogPa/Development/code/translating-orm-to-ar-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/DogPa/Development/code/translating-orm-to-ar-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/DogPa/Development/code/translating-orm-to-ar-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
